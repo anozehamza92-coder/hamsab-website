@@ -1727,3 +1727,15 @@ iframe {
     flex-shrink: 0;
   }
 }
+
+
+/* Education project showcase */
+.portfolio-education {
+  background: linear-gradient(135deg, #082b55 0%, #1769aa 55%, #55b8e8 100%);
+}
+
+.project-disclaimer {
+  margin-top: 10px !important;
+  font-size: 0.82rem !important;
+  color: #805b18 !important;
+}
